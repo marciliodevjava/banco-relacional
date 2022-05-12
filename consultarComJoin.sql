@@ -1,0 +1,1 @@
+SELECT * FROM estado e, cidades c
